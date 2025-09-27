@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer in the Making! 🚀<br>Hi, I’m Adesh an aspiring backend developer with expertise in C++, Python, MySQL, and a passion for building robust, efficient server-side applications.<br> As a fresher, I’m constantly learning and looking for opportunities to grow and improve my skills
+Developer in the Making! 🚀<br>Hi, I’m Adesh an aspiring developer with expertise in C++, Python, MySQL, and a passion for building robust, efficient server-side applications.<br> As a fresher, I’m constantly learning and looking for opportunities to grow and improve my skills
 
 💻 Technical Skills:<br><br>Languages: Python, C++, SQL.<br>Backend Tools: Flask, Django (learning), RESTful API development.<br>Database Management: MySQL – schema design, complex queries, and optimization.<br>Other Skills: Version control with Git, debugging, and performance tuning.<br><br>📈 🤝 Seeking Help & Guidance:<br><br>As a fresher, I’m looking to learn from experienced backend developers.<br>I’m open to feedback, suggestions, and learning from code reviews.<br>If you have tips, resources, or advice on backend development, feel free to reach out – I’d love to connect and learn from you!<br>📫<br><br>⚡ Fun Fact: <br>I believe the best way to learn is by collaborating, asking questions, and embracing new challenges.<br><br>
 
